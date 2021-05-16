@@ -2,6 +2,15 @@
 
 A new Flutter project.
 
+### Filter Widget'ların yazılması,
+### Ürün Listesinin Hazırlanması ve oluşturulması,
+### Ürün Detay Carousel Çalışması,
+### Ürün Detay ve Başlık Ekleme,
+### Ürün Detayı Bölümleme ve Bilgi Alanı,
+### Ürün Detayı Beden Tablosu,
+### Ürün Detayı ve Yıkama Bilgisi Alanlarının Yazılması,
+### Ürün Detayı Sepet Bar'ının Oluşturulması
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
